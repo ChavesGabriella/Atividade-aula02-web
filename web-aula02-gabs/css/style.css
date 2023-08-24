@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
 nav ul {
     list-style: none;
     text-align: center;
@@ -10,4 +12,12 @@ nav ul {
   
   nav ul li a {
     text-decoration: none;
+  }
+
+  *{
+    background-color: rgb(196, 196, 218);
+  }
+
+  #filme1{
+    font-family: 'Pacifico', cursive;
   }
