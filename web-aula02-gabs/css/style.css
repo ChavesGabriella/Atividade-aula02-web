@@ -18,6 +18,48 @@ nav ul {
     background-color: rgb(196, 196, 218);
   }
 
-  #filme1{
-    font-family: 'Pacifico', cursive;
+  #img1{
+    display: block;
+    margin: auto;
   }
+
+  .container img1 {
+    max-width:200px;
+    max-height:2000px;
+    width: auto;
+    height: auto;
+}
+
+h2{
+  text-align: center;
+  font-family: 'Pacifico', cursive;
+
+}
+
+.container2 img2 {
+  max-width:200px;
+  max-height:200px;
+  width: auto;
+  height: auto;
+}
+
+#img2{
+  display: block;
+  margin: auto;
+}
+
+.container3 img3 {
+  max-width:200px;
+  max-height:200px;
+  width: auto;
+  height: auto;
+}
+
+#img3{
+  display: block;
+  margin: auto;
+}
+
+.comentario{
+  
+}
