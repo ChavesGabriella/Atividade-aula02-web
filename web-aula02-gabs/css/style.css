@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
 
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@100;400&display=swap');
+
 
 nav ul {
     list-style: none;
@@ -67,18 +69,22 @@ h2{
 
 .paragrafo1{
   padding: 10px;
+  font-family: 'Roboto Mono', monospace;
 }
 
 .paragrafo2{
   padding: 10px;
+  font-family: 'Roboto Mono', monospace;
 }
 
 .paragrafo3{
   padding: 10px;
+  font-family: 'Roboto Mono', monospace;
 }
 
 .bemvindo{
   padding: 10px;
+  font-family: 'Roboto Mono', monospace;
 }
 
 #primeiro{
